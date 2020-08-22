@@ -17,4 +17,4 @@ Implement DQN (Deep Q-Network) to train RL agent to play Pong, according to [thi
 Set up policy gradient for both continuous and discrete OpenAI Gym environments and implement a NN baseline for variance reduction.
 
 ## Notes
-Notes that I've organized throughout the course can be found [here](https://github.com/martinzwm/stanford-cs234/notes).
+Notes that I've organized throughout the course can be found [here](https://github.com/martinzwm/stanford-cs234/tree/master/notes).
